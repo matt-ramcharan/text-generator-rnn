@@ -1,0 +1,4 @@
+-mode
+gen
+-weights
+./HPweights/checkpoint_layer_2_hidden_500_epoch_0.hdf5

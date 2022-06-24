@@ -1,0 +1,1 @@
+-data_dir ./HarryPotterSeriesAllEbooksByJKRowlingDobd99/Potters.txt -nb_epoch 10

@@ -1,0 +1,12 @@
+-data_dir
+./HarryPotterSeriesAllEbooksByJKRowlingDobd99/Potters.txt
+-seq_length
+50
+-generate_length
+500
+-nb_epoch
+40
+-mode
+generate
+-weights
+HPweights/checkpoint_layer_2_hidden_500_epoch_0.hdf5
